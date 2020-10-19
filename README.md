@@ -29,4 +29,4 @@ It executes folowing services:
 
 <hr>
 
-![all](https://github.com/shreyaadani/Meeting-Api/issues/1#issue-724385005)
+![ALL THE OUTPUT IMAGES](https://github.com/shreyaadani/Meeting-Api/issues/1#issue-724385005)
