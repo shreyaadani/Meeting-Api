@@ -26,5 +26,7 @@ It executes folowing services:
 ○	returns all meetings in JSON format 
 </ul>
 
+
 <hr>
-<img scr="https://github.com/shreyaadani/Meeting-Api/issues/1#issue-724385005">all <img>
+
+![all](https://github.com/shreyaadani/Meeting-Api/issues/1#issue-724385005)
