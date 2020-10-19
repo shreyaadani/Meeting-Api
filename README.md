@@ -19,9 +19,12 @@ It executes folowing services:
 ○	its a GET request
 ○	it works on http://localhost:9090/meeting?StartT=str1&EndT=str2 (where the start and end time is inputed in str1 and str2 respectively)
 ○	returns meetings in JSON format that are within the time range</ul>
-<li>Lists all meetings
-<ul>○	its a GET request
+<li>Lists all meetings</li>
+<ul>
+ ○	its a GET request
 ○	it works on http://localhost:9090/all 
 ○	returns all meetings in JSON format 
 </ul>
 
+<hr>
+<img scr="https://github.com/shreyaadani/Meeting-Api/issues/1#issue-724385005">all <img>
